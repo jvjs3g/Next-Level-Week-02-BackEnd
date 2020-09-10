@@ -1,7 +1,7 @@
 # BackEnd Next-Level-Week
 
 # como usar
-* clone este repositório
-* entre na pasta do projeto
-* digite ```yarn``` para instalar as dependências
-* acesse a pasta ```server``` e digite ```yarn start``` para iniciar o servidor
+* Clone este repositório
+* Entre na pasta do projeto
+* Digite ```yarn``` para instalar as dependências
+* Acesse a pasta ```server``` e digite ```yarn start``` para iniciar o servidor
